@@ -52,9 +52,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nahuel1798/Nahuel1798/output/snake.svg" alt="Snake animation" />
-
-###
